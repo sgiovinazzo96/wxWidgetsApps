@@ -1,0 +1,6 @@
+# Directories
+.vs/
+FirstDesktopApp/Debug/
+
+# Files
+*.user
